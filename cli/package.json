@@ -1,6 +1,6 @@
 {
   "name": "create-t3-app",
-  "version": "7.7.0",
+  "version": "7.8.0",
   "description": "Create web application with the t3 stack",
   "license": "MIT",
   "repository": {
@@ -71,6 +71,7 @@
     "superjson": "^1.12.2",
     "tsup": "^6.6.3",
     "type-fest": "^3.6.0",
-    "typescript": "^4.9.5"
+    "typescript": "^4.9.5",
+    "zod": "^3.21.4"
   }
 }
